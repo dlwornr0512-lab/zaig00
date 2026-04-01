@@ -1,6 +1,6 @@
-# '척' GDD
+# 'The Last Dance' GDD
 
-## '척'은 로그라이크 디펜스 게임입니다.
+## 'The Last Dance'은 로그라이크 디펜스 게임입니다.
 
 <!-- ```markdown
 # 제목 1 (H1)
